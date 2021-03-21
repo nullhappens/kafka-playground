@@ -5,7 +5,7 @@ object LibraryDependencies {
   val console4cats = "dev.profunktor" %% "console4cats" % "0.8.1"
   val log4CatsSlf4j = "io.chrisdavenport" %% "log4cats-slf4j" % "1.1.1"
   val scalafixOrganizeImports = "com.github.liancheng" %% "organize-imports" % "0.4.0"
-  val fs2Kafka = "com.github.fd4s" %% "fs2-kafka" % "3.0.0-M2"
+  val fs2Kafka = "com.github.fd4s" %% "fs2-kafka" % "2.0.0-M2"
 
   object log4j2 {
     private val log4j2Version = "2.14.1"
